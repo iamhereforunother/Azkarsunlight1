@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+@font-face {
+    font-family: 'Helvetica Rounded';
+    src: url('fonts/Helvetica-rounded.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
 
 body {
     font-family: Arial, sans-serif;
